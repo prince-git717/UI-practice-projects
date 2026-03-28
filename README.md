@@ -8,4 +8,6 @@ A collection of mini projects built using HTML and CSS to practice layouts, styl
 <img width="1920" height="871" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/ded62234-60ea-4163-b73f-8f0b23273620" />
 4th A-simple-portfolio
 <img width="1920" height="895" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/b678a754-abd3-4fd5-a652-10b5684ff8c9" />
+5th Doll-project
+<img width="1920" height="916" alt="Screenshot (371)" src="https://github.com/user-attachments/assets/69903898-3b35-4c91-a97f-f2db85650aec" />
 
