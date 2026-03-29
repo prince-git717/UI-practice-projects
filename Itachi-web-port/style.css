@@ -61,7 +61,7 @@ nav .menu {
    position: relative;
 }
 .img {
-  background: url(/img/mango.png);
+  background: url(img/mango.png);
   height: 100vh;
   width: 100%;
   background-size: cover;
